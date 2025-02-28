@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @Asmit-Rai
-- 👀 I’m interested in ...Programming,Developnent,Designing and Social media.
-- 🌱 I’m currently learning ... Programing language.
-- 💞️ I’m looking to collaborate on ... Github.
-- 📫 want to reach me mail on raiasmit99@gmail.com
+# 👋 Hi, I'm Asmit Rai!
 
-<!---
-Asmit-Rai/Asmit-Rai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💻 About Me
+- 🎓 **B.Tech in Computer Science & Engineering** (2021 - 2025) 
+  - *Jaypee University of Engineering and Technology, Madhya Pradesh*
+- 🌱 Passionate about **Full-Stack Development** & **Open Source**
+- 🚀 Constantly learning and building scalable software solutions
+
+## 🛠️ Skills
+
+### 👨‍💻 Programming Languages
+- C, C++, Java, JavaScript
+
+### 🌐 Frontend Development
+- React.js, Next.js, jQuery, Bootstrap, Tailwind CSS
+
+### 🏗️ Backend Development
+- Node.js, Express.js
+
+### 🗄️ Databases
+- MySQL, PostgreSQL, MongoDB
+
+### 🔧 Tools & Platforms
+- Git, Docker, Visual Studio Code, Postman
+
+### 💡 Soft Skills
+- Leadership, Event Management, Public Speaking
+
+## 🌍 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/asmit-rai-b4a614224) 
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asmit-Rai)
+
+📧 **Email:** raiasmit99@gmail.com  
