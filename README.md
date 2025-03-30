@@ -8,36 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/whoisasmit" target="blank"><img src="https://img.shields.io/twitter/follow/whoisasmit?logo=twitter&style=for-the-badge" alt="whoisasmit" /></a> </p>
 
-## 💻 About Me
-- 🎓 **B.Tech in Computer Science & Engineering** (2021 - 2025)  
-  - *Jaypee University of Engineering and Technology, Madhya Pradesh*
-- 🌱 Passionate about **Full-Stack Development** & **Open Source**
-- 🚀 Constantly learning and building scalable software solutions
-
-## 🛠️ Skills
-
-### 👨‍💻 Programming Languages
-- C, C++, Java, JavaScript, TypeScript
-
-### 🌐 Frontend Development
-- React.js, Next.js, Vue.js, jQuery, Bootstrap, Tailwind CSS
-
-### 🏗️ Backend Development
-- Node.js, Express.js
-
-### 🗄️ Databases
-- MySQL, PostgreSQL, MongoDB
-
-### 🔧 Tools & Platforms
-- Git, Docker, Visual Studio Code, Postman, Firebase
-
-### 💡 Soft Skills
-- Leadership, Event Management, Public Speaking
-
-## 📝 Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## 🌍 Connect with Me
 <p align="left">
 <a href="https://dev.to/asmit-rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="asmit-rai" height="30" width="40" /></a>
