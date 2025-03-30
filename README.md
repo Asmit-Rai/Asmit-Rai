@@ -16,14 +16,18 @@
   </a>
 </p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asmit-rai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asmit-rai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
+###
 
-
-## 💻 About Me
-- 🎓 **B.Tech in Computer Science & Engineering** (2021 - 2025)  
-  - *Jaypee University of Engineering and Technology, Madhya Pradesh*
-- 🌱 Passionate about **Full-Stack Development** & **Open Source**
-- 🚀 Constantly learning and building scalable software solutions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmit-rai/asmit-rai/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asmit-rai/asmit-rai/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/asmit-rai/asmit-rai/output/pacman-contribution-graph.svg">
+</picture>
 
 ## 🛠️ Skills
 
@@ -66,16 +70,6 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asmit-rai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asmit-rai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmit-rai/asmit-rai/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asmit-rai/asmit-rai/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/asmit-rai/asmit-rai/output/pacman-contribution-graph.svg">
-</picture>
 
 
 ## 🌍 Connect with Me
@@ -83,5 +77,4 @@
 <a href="https://dev.to/asmit-rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="asmit-rai" height="30" width="40" /></a>
 <a href="https://twitter.com/whoisasmit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whoisasmit" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/asmit-rai-b4a614224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmit-rai-b4a614224" height="30" width="40" /></a>
-<a href="https://dribbble.com/asmit-rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="asmit-rai" height="30" width="40" /></a>
 <a href="https://medium.com/@whoisasmit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@whoisasmit" height="30" width="40" /></a>
