@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Asmit Rai!
 
 <h3 align="center">A passionate Full-Stack Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asmit-rai&label=Profile%20views&color=0e75b6&style=flat" alt="asmit-rai" /> </p>
-
 <p align="left">
   <a href="https://www.linkedin.com/in/asmit-rai-b4a614224/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
